@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eduardo Oliveira Cardoso and I'm a front-end developer studying to become full stack.</p>
+<p align="left">My name is Eduardo Oliveira Cardoso and I'm a front-end developer studying to become a full stack one.</p>
 
 ###
 
